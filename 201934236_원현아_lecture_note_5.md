@@ -116,5 +116,27 @@ $ sudo -i
 
 - exit: to get out of a superuser session
 
+---
+
 11. text editors
 ![image](https://github.com/wonhyuna/temp-repo/assets/68580694/34fe7a72-5a58-475e-8b39-192f71f7ed49)
+
+---
+
+12. shell script
+```sh
+$ nano myscript.sh
+$ echo "Hello Shell Script!"
+$ sh myscript.sh
+```
+- write and run a shell script
+
+---
+
+13. history
+```sh
+$ history > history_command.txt
+$ cat history
+```
+- type "history" to see previous command history
+- save it to a text file
