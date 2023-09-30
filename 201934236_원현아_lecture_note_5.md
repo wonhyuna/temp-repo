@@ -86,6 +86,7 @@ $ ls -l \
 ---
 
 8. permission
+   
 ![image](https://github.com/wonhyuna/temp-repo/assets/68580694/9d11e252-b5b8-424c-9674-7ea307209cdd)
 - if you don't want to give a permission, just use "-" (ex. -rwxr-xr-x)
 
