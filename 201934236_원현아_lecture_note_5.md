@@ -1,6 +1,6 @@
 # CLI (Command Line Interface)
 
-1. >
+1. \>
 
 ```sh
 $ ls -lh > file_list.txt
