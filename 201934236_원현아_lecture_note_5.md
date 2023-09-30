@@ -19,7 +19,7 @@ $ cat file_list.txt
 
 ---
 
-3. >>
+3. \>\>
 
 ```sh
 $ ls -lh >> file_list.txt
@@ -30,7 +30,7 @@ $ ls -lh >> file_list.txt
 
 ---
 
-4. <
+4. \<
 
 ```sh
 $ sort < words.txt > sorted_words.txt
